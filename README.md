@@ -1,2 +1,2 @@
-# netology-react-props3
+# react-props3
 Chat
